@@ -1,0 +1,23 @@
+.Service_head{
+    text-align: center;
+    padding-top: 20px;
+
+}
+/* #service_img{
+    text-decoration: none;
+
+} */
+#service_img:hover{
+   width: 500px;
+}
+.loginq{
+    
+    margin-left: 1000px;
+    
+    
+}
+.loginq:hover{
+    color: chocolate;
+    
+    
+}
